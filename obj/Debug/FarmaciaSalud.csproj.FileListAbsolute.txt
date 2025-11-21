@@ -1,0 +1,9 @@
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.csproj.AssemblyReference.cache
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.Properties.Resources.resources
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.UI.LoginForm.resources
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.UI.MenuForm.resources
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.csproj.GenerateResource.cache
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.csproj.CoreCompileInputs.cache
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.UI.CategoriasForm.resources
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.UI.MedicamentoForm.resources
+C:\Users\topod\source\repos\FarmaciaSalud\FarmaciaSalud\obj\Debug\FarmaciaSalud.UI.VentaForm.resources
